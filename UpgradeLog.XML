@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChooekiPortal">
+</Property><Property Name="Solution File" Value="E:\Projects\ChooekiPortal\ChooekiPortal\ChooekiPortal.sln">
+</Property><Property Name="Date" Value="26 March 2011">
+</Property><Property Name="Time" Value="22:49">
+</Property></Properties><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Web" Source="Web\Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProxyService" Source="ProxyService\ProxyService.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProxyService" Source="ProxyService\ProxyService.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProxyServiceTests" Source="ProxyServiceTests\ProxyServiceTests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProxyServiceTests" Source="ProxyServiceTests\ProxyServiceTests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Instrument" Source="Logger\Instrument.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Instrument" Source="Logger\Instrument.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChooekiPortal.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ChooekiPortal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProxyService" Source="ProxyService\ProxyService.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="3" Project="" Source="ChooekiPortal.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChooekiPortal.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="LocalTestRun.testrunconfig" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LocalTestRun.testrunconfig" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="0" Project="ProxyServiceTests" Source="ProxyServiceTests\ProxyServiceTests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Instrument" Source="Logger\Instrument.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

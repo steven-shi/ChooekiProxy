@@ -1,0 +1,4 @@
+﻿html link rewriter
+support Referer
+support cookie
+encryp url

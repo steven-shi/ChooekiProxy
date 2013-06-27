@@ -1,0 +1,2 @@
+DEBUG 2010-12-01 00:33:43,655 Global                 Application starting
+DEBUG 2010-12-01 00:33:43,686 Global                 /default.aspx

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{32104A49-8A77-4292-BBC9-4A59E6ED2A62}"
+	ProjectSection(SolutionItems) = preProject
+		ChooekiPortal.vsmdi = ChooekiPortal.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{0475F516-90B1-45E1-8050-549E98EFDCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyService", "ProxyService\ProxyService.csproj", "{62DCA6B7-F554-4D32-928B-9BD1DD5EF373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyServiceTests", "ProxyServiceTests\ProxyServiceTests.csproj", "{F205CA13-2DDF-4B3D-9B30-23FB6EDDF9EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrument", "Logger\Instrument.csproj", "{ADE03E93-67BC-4A40-9029-0202C80AF7A4}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ChooekiPortal.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0475F516-90B1-45E1-8050-549E98EFDCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0475F516-90B1-45E1-8050-549E98EFDCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0475F516-90B1-45E1-8050-549E98EFDCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0475F516-90B1-45E1-8050-549E98EFDCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DCA6B7-F554-4D32-928B-9BD1DD5EF373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DCA6B7-F554-4D32-928B-9BD1DD5EF373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DCA6B7-F554-4D32-928B-9BD1DD5EF373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DCA6B7-F554-4D32-928B-9BD1DD5EF373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F205CA13-2DDF-4B3D-9B30-23FB6EDDF9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F205CA13-2DDF-4B3D-9B30-23FB6EDDF9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F205CA13-2DDF-4B3D-9B30-23FB6EDDF9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F205CA13-2DDF-4B3D-9B30-23FB6EDDF9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE03E93-67BC-4A40-9029-0202C80AF7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE03E93-67BC-4A40-9029-0202C80AF7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE03E93-67BC-4A40-9029-0202C80AF7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE03E93-67BC-4A40-9029-0202C80AF7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

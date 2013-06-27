@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://ftp.chooeki.info/proxy" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="stevenfish" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoMCGnkYL+EWCm8NZ9MhBQwAAAAACAAAAAAAQZgAAAAEAACAAAADon6elr2CPApy4IYSfaB9ev7AXqU8yg7fldEBzyfd7XgAAAAAOgAAAAAIAACAAAADdBnHYIIKg/MW8mHGw69ynd0Mn/EJtrSbY0eizzseSvyAAAAAdHnGVhNcXDsUiPq2KhouKV1tea6Y5O+yjZnTXkDI9mEAAAAAaPYPbMnS3EPDK8xopEge3E+2baJ7wMLAYPEfzYn4rL7lEODGwkdDlIWcgihFRp2HCnfX35bn/YWGQOctVi17M" SelectedForPublish="True">
+    <file relUrl="bin/Web.pdb" publishTime="06/15/2011 22:15:41" />
+    <file relUrl="Web.config" publishTime="06/15/2011 22:11:58" />
+    <file relUrl="bin/Instrument.dll" publishTime="06/05/2011 22:49:51" />
+    <file relUrl="bin/Instrument.pdb" publishTime="06/05/2011 22:49:51" />
+    <file relUrl="LogView.ashx" publishTime="05/29/2011 23:36:24" />
+    <file relUrl="bin/ProxyService.pdb" publishTime="06/15/2011 22:11:46" />
+    <file relUrl="Test.aspx" publishTime="05/29/2011 23:36:24" />
+    <file relUrl="bin/log4net.dll" publishTime="05/29/2011 23:36:23" />
+    <file relUrl="bin/Web.dll" publishTime="06/15/2011 22:15:41" />
+    <file relUrl="Global.asax" publishTime="05/29/2011 23:36:24" />
+    <file relUrl="RoadMap.txt" publishTime="05/29/2011 23:36:24" />
+    <file relUrl="Default.aspx" publishTime="06/15/2011 22:12:41" />
+    <file relUrl="bin/ProxyService.dll" publishTime="06/15/2011 22:11:46" />
+  </publishProfile>
+</publishData>
